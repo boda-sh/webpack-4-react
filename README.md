@@ -12,7 +12,7 @@ New libraries used including:
 ## Get Started
 
 ```bash
-$ git clone
+$ git clone https://github.com/bodaz/webpack-4-react.git
 
 # to start development server
 $ yarn run serve
