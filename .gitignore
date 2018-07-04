@@ -1,0 +1,4 @@
+node_modules
+
+# ignore build from webpack
+dist/
