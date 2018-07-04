@@ -13,6 +13,8 @@ New libraries used including:
 
 ```bash
 $ git clone https://github.com/bodaz/webpack-4-react.git
+$ cd webpack-4-react/
+$ yarn
 
 # to start development server
 $ yarn run serve
