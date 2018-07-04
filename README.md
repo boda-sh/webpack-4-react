@@ -23,6 +23,8 @@ $ yarn run serve
 $ yarn run build
 ```
 
+React app is live at http://localhost:8080/
+
 ## Current Features
 
 #### Developement Server
