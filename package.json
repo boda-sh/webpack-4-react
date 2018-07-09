@@ -16,6 +16,9 @@
   "bugs": {
     "url": "https://github.com/bodaz/webpack-4-react/issues"
   },
+  "engines": {
+    "node": ">=10"
+  },
   "scripts": {
     "serve": "webpack-serve --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js"

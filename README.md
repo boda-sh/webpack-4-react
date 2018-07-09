@@ -25,12 +25,20 @@ $ yarn run build
 
 React app is live at http://localhost:8080/
 
-## Current Features
+## What's changed in the Webpack ecosystem?
 
-#### Developement Server
+**Webpack CLI**
 
-#### Build/Minify SCSS Files
+Use `webpack-command` instead of `webpack-cli`
+
+**Developement Server**
+
+Use `webpack-command` instead of `webpack-dev-server`
+
+**Build/Minify SCSS Files**
+
+Use `mini-css-extract-plugin` and `optimize-css-assets-webpack-plugin` instead of `extract-text-webpack-plugin`
 
 ---
 
-## WORK IN PROGRESS...
+## !!!WORK IN PROGRESS...!!!
