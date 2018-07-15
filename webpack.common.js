@@ -7,6 +7,8 @@ module.exports = {
   output: {
     // filename and path are required
     filename: "main.js",
+    // output.path
+    // The output directory as an absolute path
     path: path.resolve(__dirname, "dist")
   },
   module: {
