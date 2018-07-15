@@ -1,13 +1,14 @@
 # Webpack 4 React
 
-Another React boilerplate with the latest `webpack` v4 ecosystem.
+Another client-side rendering React boilerplate with the latest `webpack` v4 ecosystem
 
-New libraries used including:
+New libraries used such as:
 
 - `webpack-command`
 - `webpack-serve`
 - `mini-css-extract-plugin`
 - `optimize-css-assets-webpack-plugin`
+- see `package.json` for full list
 
 ## Get Started
 
@@ -41,4 +42,4 @@ Use `mini-css-extract-plugin` and `optimize-css-assets-webpack-plugin` instead o
 
 ---
 
-## !!!WORK IN PROGRESS...!!!
+## !!! EXPERIMENTAL PROJECT, WORK IN PROGRESS... !!!
