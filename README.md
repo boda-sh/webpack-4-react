@@ -34,7 +34,7 @@ Use `webpack-command` instead of `webpack-cli`
 
 **Developement Server**
 
-Use `webpack-command` instead of `webpack-dev-server`
+Use `webpack-serve` instead of `webpack-dev-server`
 
 **Build/Minify SCSS Files**
 
